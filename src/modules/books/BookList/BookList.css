@@ -1,0 +1,8 @@
+.BookList {
+  padding: 40px;
+}
+
+.BookList-container {
+  display: flex;
+  justify-content: space-between;
+}

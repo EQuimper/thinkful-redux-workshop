@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "coverUrl": "https://media.bloomsbury.com/rep/bj/9781408855652.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51jNORv6nQL._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "coverUrl": "https://hpmedia.bloomsbury.com/rep/s/9780747560777_309834.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Goblet of Fire",
+      "coverUrl": "http://covers4.booksamillion.com/covers/bam/0/43/913/959/0439139597.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51G06OaZ2OL.jpg"
+    }
+  ]
+}

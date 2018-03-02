@@ -14,3 +14,9 @@ render(
   document.getElementById('root'),
 );
 registerServiceWorker();
+
+
+// dispatch, getState
+
+// const mapStateToProps => getState
+// const mapDispatchToProps => dispatch

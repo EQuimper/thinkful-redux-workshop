@@ -24,6 +24,11 @@
       "id": 5,
       "title": "Harry Potter and the Order of the Phoenix",
       "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51G06OaZ2OL.jpg"
+    },
+    {
+      "title": "Book 1",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51EstVXM1UL._SX331_BO1,204,203,200_.jpg",
+      "id": "81b43477-1150-4520-b16c-616f0cd89e91"
     }
   ]
 }

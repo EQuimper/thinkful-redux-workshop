@@ -5,7 +5,7 @@ import thunk from 'redux-thunk';
 import rootReducer from './rootReducer';
 import { apiMiddleware } from './middlewares/apiMiddleware'
 
-const middlewares = [thunk, apiMiddleware, createLogger()];
+const middlewares = [apiMiddleware, thunk, createLogger()];
 
 export default createStore(
   rootReducer,

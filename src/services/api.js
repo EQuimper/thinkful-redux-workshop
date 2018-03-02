@@ -1,5 +1,7 @@
 import uuid from 'uuid/v4';
 
+DONT REPEAT YOURSELF
+
 class Api {
   constructor(baseUrl) {
     this._baseUrl = baseUrl;
@@ -25,4 +27,6 @@ class Api {
   }
 }
 
-export default new Api('http://localhost:8000');
+const api = new Api('http://localhost:8000');
+
+

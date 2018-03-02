@@ -1,6 +1,6 @@
 import { fetchApi } from '../../services/fetchApi';
 
-export const apiMiddleware = ({ dispatch }) => next => action => {
+export const apiMiddleware = ({ dispatch, getState }) => next => action => {
   if (!action.type.includes('API_CALL')) {
     return next(action);
   }

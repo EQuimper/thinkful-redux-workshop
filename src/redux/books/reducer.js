@@ -25,6 +25,11 @@ export default (state = initialState, action) => {
         error: action.error,
         isFetching: false
       }
+    case actionTypes.CREATE_BOOKS_SUCCESS:
+      return {
+        ...state,
+        data: [...state.data, action.payload]
+      }
     default:
       return state;
   }
